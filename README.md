@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 My Tech Stack (for everyone)
+## 🧠 My Tech Stack
 
 <p align="center" style="max-width: 700px;">
 
