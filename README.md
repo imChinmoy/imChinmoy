@@ -17,7 +17,7 @@
 🌱 **Currently mastering:** Clean architecture, end-to-end type safety, and scalable frontend frameworks  
 💬 **Ask me about:** TypeScript, Next.js, PostgreSQL, Prisma, Zod, tRPC  
 📫 **Reach me at:** [chinmoysenapoti77x@gmail.com](mailto:chinmoysenapoti77x@gmail.com)  
-🌍 **Languages I speak:** English, Hindi, Bengali  
+🌍 **Languages I speak:** English, Hindi, Bengali ,Assamese
 🇮🇳 **Based in:** India
 
 ---
