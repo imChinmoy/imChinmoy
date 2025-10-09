@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! </h1>
+<h1 align="center"> Hi there! I'm Chinmoy 🙌  </h1>
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
