@@ -106,13 +106,6 @@ My personal portfolio showcasing my projects, design philosophy, and journey.
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imChinmoy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imChinmoy&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
