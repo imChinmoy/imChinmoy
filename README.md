@@ -1,15 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+
 <div align="center">
 
-# 👋 Hey there! I'm Chinmoy
+# 👋 Hey there, I'm Chinmoy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+TypeScript+%26+Flutter+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Firebase;Building+apps+that+scale+%26+solve+problems!;Lover+of+Clean+Architecture+%26+Type+Safety" />
+### Full-Stack Developer • Flutter Specialist • TypeScript Enthusiast
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+TypeScript+%26+Flutter+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Firebase;Clean+Architecture+%26+Scalable+Systems;Building+apps+that+actually+matter" />
 
-<p align="center">
-  <a href="https://github.com/imChinmoy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chinmoy-senapoti/94b2202a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chinmoysenapoti77x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/imChinmoy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/chinmoy-senapoti/94b2202a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:chinmoysenapoti77x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 </div>
@@ -18,154 +26,138 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</p>
+I’m a **full-stack engineer** based in 🇮🇳 India, focused on building  
+**scalable, maintainable, and production-ready applications**.
 
-### 👨‍💻 Full-Stack Developer | 📱 Flutter Specialist | 🇮🇳 Based in India
+I specialize in:
+- 📱 **Flutter** for high-performance mobile apps
+- 🌐 **TypeScript ecosystem** (Next.js, Node.js)
+- 🏗️ **Clean Architecture & system design**
+- 🔐 Type safety, performance & DX
 
-I am a passionate engineer dedicated to building robust, scalable, and beautiful applications. I specialize in the **TypeScript** ecosystem and **Flutter** mobile development, with a deep focus on end-to-end type safety and thoughtful system design.
-
-**What I'm up to:**
-- 📱 Crafting premium mobile experiences with **Flutter & Riverpod**
-- 🌐 Engineering scalable web platforms using **Next.js & Prisma**
-- 🤖 Integrating **AI & ML** into functional real-world applications
-- 🏗️ Implementing **Clean Architecture** to ensure long-term maintainability
-- 🎯 Goal: To build tech that makes life simpler and smarter
-
-**My Philosophy:** *“Code is like art — elegant, structured, and built with purpose.”* I believe that great software isn't just about solving a problem, but about creating an intuitive journey for the user.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+> *“Great software is not just written — it’s engineered.”*
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### 🖼️ Frontend & Mobile
+### Frontend & Mobile
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E3E3E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
 </p>
 
 ---
-
 ## 🎯 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 Elysia
-**Decentalized platform for Medical**
+### 🏥 **Elysia**
+<sub><b>Decentralized Medical Platform</b></sub>
 
-Help users discover nearby hospitals, clinics, and pharmacies using Google Maps, and connect with verified doctors through appointment booking and real-time chat and Video Call.
+Discover nearby hospitals, book appointments, and connect with verified doctors via real-time chat & video calls.
 
-`Flutter` `STUN` `Riverpod` `Hive` `Google Maps` `STUN` `SocketIO`
+**Tech:**  
+`Flutter` `Riverpod` `Hive` `Google Maps` `WebRTC`
 
-[![View](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imChinmoy/Elysia)
+🔗 **Repo:** https://github.com/imChinmoy/Elysia
+
+---
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 OrderUp
-**Application that digitize the canteen experience, reducing queues and improving management efficiency.**
+### 🌾 **OrderUp**
+<sub><b>Smart Canteen Management System</b></sub>
 
-A cross-platform college canteen management system that enables students to view menu items, place orders, and track order status — while admins can manage the menu, orders, and analyze trends.
+Digitizes college canteen workflows, reducing queues and improving analytics.
 
-`Flutter` `MongoDB` `ML` `Riverpod` `Razorpay` `Node` `Express`
+**Tech:**  
+`Flutter` `MongoDB` `ML` `Node.js` `Razorpay`
 
-[![View](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imChinmoy/OrderUp)
+🔗 **Repo:** https://github.com/imChinmoy/OrderUp
+
+---
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
+### 🏙️ **District**
+<sub><b>Community Event Booking</b></sub>
 
-### 🏙️ District
-**Community Event Booking**
+Find and join nearby meetups with real-time updates.
 
-Connects users with nearby meetups via real-time updates.
-
+**Tech:**  
 `Flutter` `Firebase` `Riverpod`
 
-[![View](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imChinmoy/District-App)
+🔗 **Repo:** https://github.com/imChinmoy/District-App
+
+---
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-  
-### 🎉 Eventify
-**Event Management System**
+### 🎉 **Eventify**
+<sub><b>Event Management System</b></sub>
 
-Modern MERN stack app with clean architecture.
+Modern MERN application with clean architecture and state management.
 
+**Tech:**  
 `React` `Node.js` `Zustand`
 
-[![View](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/imChinmoy/Eventify)
+🔗 **Repo:** https://github.com/imChinmoy/Eventify
+
+---
 
 </td>
 </tr>
 </table>
 
+
+## 📊 GitHub Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imChinmoy&theme=github_dark)
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imChinmoy&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imChinmoy&theme=github_dark&utcOffset=5.5)
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imChinmoy&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Chinmoy's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imChinmoy&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imChinmoy&theme=dark&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amresh-01&theme=tokyo-night&hide_border=true&color=00d4ff" alt="Contribution Graph" />
-</div>
-
-
-
-
-<br/>
-
 <div align="center">
 
-### 💡 *"From code to creativity — building apps that matter."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Collaborate!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
+### 💡 *From ideas to impact — I build software that lasts.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imChinmoy&color=36BCF7&style=flat-square)
 
 </div>
 
-<div align="right">
-  <b><a href="#-hey-there-im-chinmoy">↑ Back to Top</a></b>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
