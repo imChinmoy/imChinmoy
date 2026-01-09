@@ -136,15 +136,23 @@ Modern MERN stack app with clean architecture.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=imChinmoy&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imChinmoy&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Chinmoy's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imChinmoy&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
-<div align="center" display="flex">
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=imChinmoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imChinmoy&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imChinmoy&theme=dark&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amresh-01&theme=tokyo-night&hide_border=true&color=00d4ff" alt="Contribution Graph" />
+</div>
+
+
+
 
 <br/>
 
