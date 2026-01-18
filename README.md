@@ -26,48 +26,109 @@
 
 ## 🚀 About Me
 
-I’m a **full-stack engineer** based in 🇮🇳 India, focused on building  
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **full-stack engineer** based in 🇮🇳 India, focused on building  
 **scalable, maintainable, and production-ready applications**.
 
-I specialize in:
-- 📱 **Flutter** for high-performance mobile apps
-- 🌐 **TypeScript ecosystem** (Next.js, Node.js)
-- 🏗️ **Clean Architecture & system design**
-- 🔐 Type safety, performance & DX
+### What I Do
+- 📱 **Flutter Development** — High-performance cross-platform mobile apps
+- 🌐 **Full-Stack Web** — Next.js, React, Node.js & TypeScript ecosystem
+- 🏗️ **System Architecture** — Clean code, scalable design patterns
+- 🔐 **Performance Engineering** — Type safety, optimization & developer experience
 
-> *“Great software is not just written — it’s engineered.”*
+> *"Great software is not just written — it's engineered."*
+
+</td>
+<td width="40%" valign="top">
+
+### 📈 Quick Stats
+
+```text
+🎯 Focus Areas
+├─ Mobile: Flutter & Dart
+├─ Frontend: React & Next.js
+├─ Backend: Node.js & Express
+└─ Database: PostgreSQL, MongoDB
+
+🔧 Architecture
+├─ Clean Architecture
+├─ State Management
+├─ RESTful & GraphQL APIs
+└─ Real-time Systems
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Frontend & Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
 
 ### Backend & Database
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### State Management & Tools
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-6200EA?style=for-the-badge&logo=flutter&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
+
 ## 🎯 Featured Projects
 
 <table>
@@ -138,17 +199,35 @@ Modern MERN application with clean architecture and state management.
 </tr>
 </table>
 
+---
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Contribution Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imChinmoy&theme=github_dark)
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=imChinmoy&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imChinmoy&theme=github_dark)
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Streak & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imChinmoy&theme=dark&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+</p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imChinmoy&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+### ⏰ Coding Time
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imChinmoy&theme=github_dark&utcOffset=5.5)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
