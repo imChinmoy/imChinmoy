@@ -203,31 +203,36 @@ Modern MERN application with clean architecture and state management.
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+### 📈 Stats Overview
+
+![](https://github-readme-stats-fast.vercel.app/api?username=imChinmoy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Contribution Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imChinmoy&theme=github_dark)
+### 🧬 Top Languages
 
-![](https://github-readme-stats.vercel.app/api?username=imChinmoy&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imChinmoy&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔥 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imChinmoy&theme=dark&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</p>
+### 🔥 Streak Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imChinmoy&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-### ⏰ Coding Time
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imChinmoy&theme=github_dark&utcOffset=5.5)
+![](https://streak-stats.demolab.com?user=imChinmoy&theme=radical&hide_border=true)
 
 </td>
 </tr>
 </table>
+
+### 📅 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=imChinmoy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 ---
 
