@@ -168,30 +168,30 @@ Digitizes college canteen workflows, reducing queues and improving analytics.
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ **District**
-<sub><b>Community Event Booking</b></sub>
+### 🤖 **NovaAI** <sub>(AgentOS)</sub>
+<sub><b>AI-Powered Operating System Assistant</b></sub>
 
-Find and join nearby meetups with real-time updates.
+Converts natural language into executable OS actions — plans multi-step tasks with an LLM, validates them, then safely automates browser, desktop, and file-system workflows inside an isolated workspace.
 
 **Tech:**  
-`Flutter` `Firebase` `Riverpod`
+`Python` `FastAPI` `LangGraph` `LangChain` `Playwright`
 
-🔗 **Repo:** https://github.com/imChinmoy/District-App
+🔗 **Repo:** https://github.com/imChinmoy/Nova-AI
 
 ---
 
 </td>
 <td width="50%" valign="top">
 
-### 🎉 **Eventify**
-<sub><b>Event Management System</b></sub>
+### ♻️ **EcoSyncAI**
+<sub><b>ML-Powered Smart Garbage Management</b></sub>
 
-Modern MERN application with clean architecture and state management.
+IoT-connected smart bins stream live fill-level updates, while an ML garbage-classification model sorts waste by type for optimal collection and recycling.
 
 **Tech:**  
-`React` `Node.js` `Zustand`
+`Flutter` `IoT` `Machine Learning` `Firebase`
 
-🔗 **Repo:** https://github.com/imChinmoy/Eventify
+🔗 **Repo:** https://github.com/imChinmoy/EcoSyncAI
 
 ---
 
