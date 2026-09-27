@@ -42,14 +42,14 @@ class Chinmoy:
         return {
             "mobile":  ["Flutter", "Dart", "Riverpod"],
             "web":     ["Next.js", "React", "TypeScript"],
-            "backend": ["Firebase", "PostgreSQL", "Prisma"],
+            "backend": ["Node", "Fast API", "Mongo", "Firebase", "PostgreSQL", "Prisma"],
             "devops":  ["Docker", "AWS", "Vercel"]
         }
 
     def current_focus(self):
         return [
-            "📚 Building EduGo @ Nirvighna Services",
-            "🔗 Blockchain research @ AKGEC",
+            "📚 Building ",
+            "🔗 Blockchain research",
             "🏗️  Clean architecture & scalable design",
             "⚡ Turning ideas into production apps"
         ]
@@ -79,7 +79,6 @@ class Chinmoy:
   </picture>
 </p>
 
-> ⚠️ Pac-Man & Snake graphs need a GitHub Actions workflow in your profile repo (`imChinmoy/imChinmoy`) that generates and commits these SVGs to an `output` branch. See the note at the bottom of this file for the workflow snippet.
 
 ---
 
@@ -230,13 +229,14 @@ IoT-connected smart bins stream live fill-level updates, while an ML classificat
 ## 🌟 Mission Statement
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20software%20is%20not%20just%20written%20%E2%80%94%20it%27s%20engineered.&author=Chinmoy%20Senapoti"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Our%20understanding%20has%20to%20keep%20up%20with%20our%20ability%20to%20build%20things.&author=Dario%20Amodei"/>
 </p>
+
 
 ---
 
 <p align="center">
-  <i>⚡ Open to internships, collaborations & research in Full-Stack · Flutter · Blockchain · AgentOS</i>
+  <i>⚡ Open to internships, collaborations & research in Full-Stack · Android · Blockchain · </i>
   <br/><br/>
   <a href="https://github.com/imChinmoy">
     <img src="https://img.shields.io/badge/Follow%20Me%20On-GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
