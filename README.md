@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Chinmoy%20Senapoti&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Specialist%20%7C%20TypeScript%20Enthusiast&descAlignY=55&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Chinmoy%20Senapoti&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Android%20Developer%20%7C%20TypeScript%20Enthusiast&descAlignY=55&descSize=18&animation=twinkling"/>
 
 <p align="center">
   <a href="https://github.com/imChinmoy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Full-stack+TypeScript+%26+Flutter+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Firebase;B.Tech+CSE+%40+AKGEC%2C+Ghaziabad;Building+EduGo+%40+Nirvighna+Services" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Full-stack+TypeScript+%26+Android+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Firebase" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -28,36 +28,47 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```python
 class Chinmoy:
     def __init__(self):
         self.name = "Chinmoy Senapoti"
-        self.roles = ["Full-Stack Dev", "Flutter Specialist"]
+        self.roles = ["Full-Stack Dev", "Android Developer"]
         self.education = "B.Tech CSE @ AKGEC (2028)"
         self.lab = "Blockchain Research Lab, AKGEC"
 
     def tech_stack(self):
         return {
             "mobile":  ["Flutter", "Dart", "Riverpod"],
-            "web":     ["Next.js", "React", "TypeScript"],
-            "backend": ["Node", "Fast API", "Mongo", "Firebase", "PostgreSQL", "Prisma"],
+            "web":     ["Next.js", "React", "TS"],
+            "backend": ["Node", "FastAPI", "Firebase"],
             "devops":  ["Docker", "AWS", "Vercel"]
         }
 
     def current_focus(self):
         return [
-            "📚 Building ",
+            "📱 Android app development",
             "🔗 Blockchain research",
-            "🏗️  Clean architecture & scalable design",
-            "⚡ Turning ideas into production apps"
+            "🏗️  Clean architecture & design",
+            "⚡ Shipping production apps"
         ]
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top" align="center">
 
-> *"Great software is not just written — it's engineered."*
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Our%20understanding%20has%20to%20keep%20up%20with%20our%20ability%20to%20build%20things.&author=Dario%20Amodei"/>
+</p>
 
 ---
 
@@ -78,7 +89,6 @@ class Chinmoy:
     <img alt="snake contribution graph" src="https://raw.githubusercontent.com/imChinmoy/imChinmoy/output/github-snake-dark.svg"/>
   </picture>
 </p>
-
 
 ---
 
@@ -232,11 +242,10 @@ IoT-connected smart bins stream live fill-level updates, while an ML classificat
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Our%20understanding%20has%20to%20keep%20up%20with%20our%20ability%20to%20build%20things.&author=Dario%20Amodei"/>
 </p>
 
-
 ---
 
 <p align="center">
-  <i>⚡ Open to internships, collaborations & research in Full-Stack · Android · Blockchain · </i>
+  <i>⚡ Open to internships, collaborations & research in Full-Stack · Android · Blockchain</i>
   <br/><br/>
   <a href="https://github.com/imChinmoy">
     <img src="https://img.shields.io/badge/Follow%20Me%20On-GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
@@ -248,13 +257,3 @@ IoT-connected smart bins stream live fill-level updates, while an ML classificat
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d4f8c,100:0a0e27&height=120&section=footer&animation=twinkling"/>
-
-<!--
-NOTE on Pac-Man / Snake graphs:
-These need a GitHub Actions workflow committing generated SVGs to an `output`
-branch of your imChinmoy/imChinmoy profile repo. Two popular actions:
-- Platane/snk (snake graph)
-- IridiumEclipse/pacman-contribution-graph (pacman graph)
-Add a `.github/workflows/graphs.yml` that runs both on a schedule/push and
-commits output to the `output` branch — then the image links above will render.
--->
